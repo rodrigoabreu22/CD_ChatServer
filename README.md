@@ -1,3 +1,7 @@
+1st CD assignemnt realized by myself
+Grade: 17,5
+
+
 # cd_chat_server
 
 This is a template repository for Computação Distribuida assignment 1
