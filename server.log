@@ -1,0 +1,1616 @@
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Bar left the chat
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Foo has joined the chat
+DEBUG:root:Foo has joined the chat
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Bar (channel: general) -> ola
+
+DEBUG:root:Foo (channel: general) -> oi
+
+DEBUG:root:Bar joined: cd
+
+DEBUG:root:Foo joined: cd
+
+DEBUG:root:Foo (channel: cd
+) -> ola
+
+DEBUG:root:Foo has joined the chat
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Foo (channel: general) -> ola
+
+DEBUG:root:Bar (channel: general) -> boas
+
+DEBUG:root:Foo joined: cd
+
+DEBUG:root:Bar joined: cd
+
+DEBUG:root:Foo (channel: cd
+) -> boas
+
+DEBUG:root:Foo has joined the chat
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Foo (channel: general) -> ola
+
+DEBUG:root:Bar (channel: general) -> boas
+
+DEBUG:root:Bar joined: cd
+
+DEBUG:root:Foo joined: cd
+
+DEBUG:root:Foo (channel: cd
+) -> ola
+
+DEBUG:root:Foo has joined the chat
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Bar (channel: general) -> ola
+
+DEBUG:root:Foo (channel: general) -> boas
+
+DEBUG:root:Foo joined: cd
+
+DEBUG:root:Foo (channel: cd
+) -> ola
+
+DEBUG:root:Bar joined: cd
+
+DEBUG:root:Bar (channel: cd
+) -> boas
+
+DEBUG:root:Foo left the chat
+DEBUG:root:Foo has joined the chat
+DEBUG:root:Foo joined: cd
+
+DEBUG:root:Foo (channel: cd
+) -> ola
+
+DEBUG:root:Bar (channel: cd
+) -> ola
+
+DEBUG:root:Foo left the chat
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Foo has joined the chat
+DEBUG:root:Foo (channel: general) -> boas
+
+DEBUG:root:Bar (channel: general) -> boas
+
+DEBUG:root:Foo (channel: general) -> /join
+
+DEBUG:root:Foo joined: cd
+
+DEBUG:root:Bar joined: cd
+
+DEBUG:root:Foo (channel: cd
+) -> ola
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Foo has joined the chat
+DEBUG:root:Foo (channel: general) -> boaas
+
+DEBUG:root:Bar (channel: general) -> ola
+
+DEBUG:root:Bar joined: cd
+
+DEBUG:root:Foo joined: cd
+
+DEBUG:root:Foo (channel: cd
+) -> boas
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Bar (channel: general) -> join /cd
+
+DEBUG:root:Foo (channel: cd
+) -> ola
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Bar joined: cd
+
+DEBUG:root:Foo (channel: cd
+) -> ola
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Bar joined: cd
+
+DEBUG:root:Foo (channel: cd
+) -> ola
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Foo (channel: cd
+) -> boas
+
+DEBUG:root:Bar joined: cd
+
+DEBUG:root:Foo (channel: cd
+) -> boas
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Foo (channel: cd
+) -> boas
+
+DEBUG:root:Bar joined: cd
+
+DEBUG:root:Foo (channel: cd
+) -> boas
+
+DEBUG:root:Bar (channel: cd
+) -> boas
+
+DEBUG:root:Foo left the chat
+DEBUG:root:Bar left the chat
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Foo has joined the chat
+DEBUG:root:Foo (channel: general) -> ola
+
+DEBUG:root:Bar (channel: general) -> ola
+
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Foo has joined the chat
+DEBUG:root:Foo (channel: ) -> ola
+
+DEBUG:root:Bar (channel: ) -> ola
+
+DEBUG:root:Bar (channel: ) -> tudo bem?
+
+DEBUG:root:Foo left the chat
+DEBUG:root:Foo has joined the chat
+DEBUG:root:Foo (channel: ) -> ola
+
+DEBUG:root:Foo (channel: ) -> ola
+
+DEBUG:root:Bar joined: cd
+
+DEBUG:root:Foo (channel: ) -> ola
+
+DEBUG:root:Foo (channel: ) -> ola
+
+DEBUG:root:Bar (channel: cd
+) -> ola foo
+
+DEBUG:root:Foo joined: so
+
+DEBUG:root:Foo (channel: so
+) -> ola bar
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo has joined the chat
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Foo (channel: ) -> Olá Mundo
+
+DEBUG:root:Bar (channel: ) -> Hello World
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Foo has joined the chat
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Foo (channel: ) -> Olá Mundo
+
+DEBUG:root:Bar (channel: ) -> Hello World
+
+DEBUG:root:Bar (channel: ) -> How are you?
+
+DEBUG:root:Bar (channel: ) -> Are you new around here?
+
+DEBUG:root:Bar (channel: ) -> Hope you enjoy your stay
+
+DEBUG:root:Foo (channel: ) -> You are awesome!
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Foo has joined the chat
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Foo (channel: ) -> Hello!
+
+DEBUG:root:Bar (channel: ) -> Welcome aboard
+
+DEBUG:root:Bar (channel: ) -> Who are you?
+
+DEBUG:root:Foo (channel: ) -> I'm Joe
+
+DEBUG:root:Bar (channel: ) -> Nice to meet you Joe
+
+DEBUG:root:Foo (channel: ) -> Cya around
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Foo has joined the chat
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Foo (channel: ) -> Hello!
+
+DEBUG:root:Foo joined: #cd
+
+DEBUG:root:Foo (channel: #cd
+) -> no one is here...
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Foo has joined the chat
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Foo joined: #c1
+
+DEBUG:root:Bar joined: #c2
+
+DEBUG:root:Foo (channel: #c1
+) -> Hello darkness, my old friend
+
+DEBUG:root:Foo joined: #c2
+
+DEBUG:root:Foo (channel: #c2
+) -> I've come to talk with you again
+
+DEBUG:root:Foo (channel: #c1
+) -> Because a vision softly creeping
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Foo has joined the chat
+DEBUG:root:Bar has joined the chat
+DEBUG:root:Bar (channel: ) -> ola foo
+
+DEBUG:root:Foo (channel: ) -> ola bar
+
+DEBUG:root:Accepted connection from ('127.0.0.1', 50220)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 54696)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar (channel: ) -> Olá
+
+DEBUG:root:Foo left the chat
+DEBUG:root:Bar left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 53676)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 51140)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar (channel: ) -> Ola
+
+DEBUG:root:Foo left the chat
+DEBUG:root:Bar left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 48184)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 48192)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar (channel: ) -> Ola foo
+
+DEBUG:root:Foo left the chat
+DEBUG:root:Bar left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 32878)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 32888)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar (channel: ) -> Ola foo
+
+DEBUG:root:Foo left the chat
+DEBUG:root:Bar left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 38902)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 55532)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo (channel: ) -> Ola bar
+
+DEBUG:root:Foo left the chat
+DEBUG:root:Bar left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 54338)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 54340)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Foo (channel: ) -> ola bar
+
+DEBUG:root:Foo left the chat
+DEBUG:root:Bar left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 33470)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 33486)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar (channel: ) -> ola foo
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 34464)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 52500)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Foo (channel: ) -> ola bar
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 38584)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 59550)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar (channel: ) -> ola foo
+
+DEBUG:root:Foo (channel: ) -> ola bar
+
+DEBUG:root:Foo left the chat
+DEBUG:root:Bar left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 60288)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 60290)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo (channel: ) -> Olá Mundo
+
+DEBUG:root:Bar (channel: ) -> Hello World
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 60302)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 60318)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo (channel: ) -> Olá Mundo
+
+DEBUG:root:Bar (channel: ) -> Hello World
+
+DEBUG:root:Bar (channel: ) -> How are you?
+
+DEBUG:root:Bar (channel: ) -> Are you new around here?
+
+DEBUG:root:Bar (channel: ) -> Hope you enjoy your stay
+
+DEBUG:root:Foo (channel: ) -> You are awesome!
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 60672)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 60684)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo (channel: ) -> Hello!
+
+DEBUG:root:Bar (channel: ) -> Welcome aboard
+
+DEBUG:root:Bar (channel: ) -> Who are you?
+
+DEBUG:root:Foo (channel: ) -> I'm Joe
+
+DEBUG:root:Bar (channel: ) -> Nice to meet you Joe
+
+DEBUG:root:Foo (channel: ) -> Cya around
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 60694)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 60698)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo (channel: ) -> Hello!
+
+DEBUG:root:Foo joined: #cd
+
+DEBUG:root:Foo (channel: #cd
+) -> no one is here...
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 60714)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 60716)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo joined: #c1
+
+DEBUG:root:Bar joined: #c2
+
+DEBUG:root:Foo (channel: #c1
+) -> Hello darkness, my old friend
+
+DEBUG:root:Foo joined: #c2
+
+DEBUG:root:Foo (channel: #c2
+) -> I've come to talk with you again
+
+DEBUG:root:Foo (channel: #c1
+) -> Because a vision softly creeping
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 46138)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 46154)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo (channel: ) -> ola bar
+
+DEBUG:root:Foo left the chat
+DEBUG:root:Bar left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 42616)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 42632)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar (channel: ) -> ola bar
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 47992)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 45526)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar (channel: ) -> ola foo
+
+DEBUG:root:Foo left the chat
+DEBUG:root:Bar left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 45320)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 45328)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar (channel: ) -> ola foo
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 56824)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 56826)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo (channel: ) -> Olá Mundo
+
+DEBUG:root:Bar (channel: ) -> Hello World
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 56840)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 56842)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo (channel: ) -> Olá Mundo
+
+DEBUG:root:Bar (channel: ) -> Hello World
+
+DEBUG:root:Bar (channel: ) -> How are you?
+
+DEBUG:root:Bar (channel: ) -> Are you new around here?
+
+DEBUG:root:Bar (channel: ) -> Hope you enjoy your stay
+
+DEBUG:root:Foo (channel: ) -> You are awesome!
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 56844)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 56850)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo (channel: ) -> Hello!
+
+DEBUG:root:Bar (channel: ) -> Welcome aboard
+
+DEBUG:root:Bar (channel: ) -> Who are you?
+
+DEBUG:root:Foo (channel: ) -> I'm Joe
+
+DEBUG:root:Bar (channel: ) -> Nice to meet you Joe
+
+DEBUG:root:Foo (channel: ) -> Cya around
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 56856)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 56862)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo (channel: ) -> Hello!
+
+DEBUG:root:Foo joined: #cd
+
+DEBUG:root:Foo (channel: #cd
+) -> no one is here...
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 38142)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 38144)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo joined: #c1
+
+DEBUG:root:Bar joined: #c2
+
+DEBUG:root:Foo (channel: #c1
+) -> Hello darkness, my old friend
+
+DEBUG:root:Foo joined: #c2
+
+DEBUG:root:Foo (channel: #c2
+) -> I've come to talk with you again
+
+DEBUG:root:Foo (channel: #c1
+) -> Because a vision softly creeping
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 34426)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 47734)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 33350)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo (channel: ) -> Olá Mundo
+
+DEBUG:root:Bar (channel: ) -> Hello World
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 33358)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 33372)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo (channel: ) -> Olá Mundo
+
+DEBUG:root:Bar (channel: ) -> Hello World
+
+DEBUG:root:Bar (channel: ) -> How are you?
+
+DEBUG:root:Bar (channel: ) -> Are you new around here?
+
+DEBUG:root:Bar (channel: ) -> Hope you enjoy your stay
+
+DEBUG:root:Foo (channel: ) -> You are awesome!
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 33378)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 33394)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo (channel: ) -> Hello!
+
+DEBUG:root:Bar (channel: ) -> Welcome aboard
+
+DEBUG:root:Bar (channel: ) -> Who are you?
+
+DEBUG:root:Foo (channel: ) -> I'm Joe
+
+DEBUG:root:Bar (channel: ) -> Nice to meet you Joe
+
+DEBUG:root:Foo (channel: ) -> Cya around
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 33396)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 33402)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo (channel: ) -> Hello!
+
+DEBUG:root:Foo joined: #cd
+
+DEBUG:root:Foo (channel: #cd
+) -> no one is here...
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 35094)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 35104)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo joined: #c1
+
+DEBUG:root:Bar joined: #c2
+
+DEBUG:root:Foo (channel: #c1
+) -> Hello darkness, my old friend
+
+DEBUG:root:Foo joined: #c2
+
+DEBUG:root:Foo (channel: #c2
+) -> I've come to talk with you again
+
+DEBUG:root:Foo (channel: #c1
+) -> Because a vision softly creeping
+
+DEBUG:root:Bar left the chat
+DEBUG:root:Foo left the chat
+DEBUG:root:Bar (channel: ) -> 
+DEBUG:root:Accepted connection from ('127.0.0.1', 54808)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 57042)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar -> ola foo
+ (channel: )
+DEBUG:root:Bar joined: cd
+
+DEBUG:root:Bar -> estas ai bar?
+ (channel: cd
+)
+DEBUG:root:Foo -> ola bar
+ (channel: )
+DEBUG:root:Foo -> join cd
+ (channel: )
+DEBUG:root:Foo joined: cd
+
+DEBUG:root:Foo -> ola bar
+ (channel: cd
+)
+DEBUG:root:Bar -> ola foo
+ (channel: cd
+)
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 46162)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 49140)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar -> Ola foo, tudo bem?
+ (channel: )
+DEBUG:root:Foo -> Ola bar, tudo e contigo?
+ (channel: )
+DEBUG:root:Foo left the server
+DEBUG:root:Bar left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 53074)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 52856)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar -> Ola foo
+ (channel: )
+DEBUG:root:Foo left the server
+DEBUG:root:Bar left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 47116)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 50410)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar -> ola foo
+ (channel: )
+DEBUG:root:Foo -> ola bar, tudo bem?
+ (channel: )
+DEBUG:root:Bar -> tudo e contigo?
+ (channel: )
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 44714)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 47736)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar -> ola foo, tudo bem? (channel: )
+DEBUG:root:Foo -> tudo e contigo? (channel: )
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 46774)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 46776)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 57674)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 57676)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 58338)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Bar left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 54072)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 55200)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 51290)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Foo -> ola foo (channel: )
+DEBUG:root:Bar -> Hola (channel: )
+DEBUG:root:Bar joined: cd
+DEBUG:root:Bar -> ola foo (channel: cd)
+DEBUG:root:Foo joined: cd
+DEBUG:root:Foo -> Hola (channel: cd)
+DEBUG:root:Bar -> Hola (channel: cd)
+DEBUG:root:Foo -> Hola (channel: cd)
+DEBUG:root:Foo left the server
+DEBUG:root:Bar left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 41756)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar -> /exit (channel: )
+DEBUG:root:Bar -> /exit (channel: )
+DEBUG:root:Bar left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 33786)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 32774)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 41896)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Foo -> ola bar (channel: )
+DEBUG:root:Bar -> ola foo (channel: )
+DEBUG:root:Bar joined: cd
+DEBUG:root:Bar -> ola foo (channel: cd)
+DEBUG:root:Foo joined: cd
+DEBUG:root:Foo -> estou no canal cd bar (channel: cd)
+DEBUG:root:Bar -> eu tambem foo (channel: cd)
+DEBUG:root:Foo -> estas ai bar? (channel: cd)
+DEBUG:root:Bar -> estou foo (channel: )
+DEBUG:root:Foo left the server
+DEBUG:root:Bar left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 38248)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 38250)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Foo joined: cd
+DEBUG:root:Foo -> /join (channel: cd)
+DEBUG:root:Foo -> ola bar (channel: cd)
+DEBUG:root:Foo joined: aed
+DEBUG:root:Bar joined: aed
+DEBUG:root:Bar -> ola foo (channel: aed)
+DEBUG:root:Foo -> ola bar (channel: aed)
+DEBUG:root:Foo -> ola bar (channel: )
+DEBUG:root:Bar -> ola foo (channel: aed)
+DEBUG:root:Foo left the server
+DEBUG:root:Bar left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 59154)
+DEBUG:root:Accepted connection from ('127.0.0.1', 56068)
+DEBUG:root:Accepted connection from ('127.0.0.1', 59084)
+DEBUG:root:Accepted connection from ('127.0.0.1', 59264)
+DEBUG:root:Accepted connection from ('127.0.0.1', 36876)
+DEBUG:root:Accepted connection from ('127.0.0.1', 44072)
+DEBUG:root:Accepted connection from ('127.0.0.1', 59292)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 46264)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Bar -> ola bar (channel: general)
+DEBUG:root:Foo -> oi bar (channel: general)
+DEBUG:root:Bar joined: cd
+DEBUG:root:Foo -> estas ai bar? (channel: general)
+DEBUG:root:Foo joined: cd
+DEBUG:root:Bar -> estou (channel: cd)
+DEBUG:root:Foo joined: aed
+DEBUG:root:Foo -> estou em aed bar (channel: aed)
+DEBUG:root:Foo left: aed
+DEBUG:root:Foo -> baaaar (channel: aed)
+DEBUG:root:Bar joined: aed
+DEBUG:root:Bar -> foo (channel: aed)
+DEBUG:root:Foo left the server
+DEBUG:root:Bar left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 43406)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 43408)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Foo -> ola bar (channel: general)
+DEBUG:root:Bar -> ola foo (channel: general)
+DEBUG:root:Foo -> vou para cd bar (channel: general)
+DEBUG:root:Foo joined: cd
+DEBUG:root:Foo -> ja estou em cd (channel: cd)
+DEBUG:root:Bar -> estas ai foo? (channel: general)
+DEBUG:root:Bar joined: cd
+DEBUG:root:Bar -> entrei em cd foo (channel: cd)
+DEBUG:root:Foo -> boa bar (channel: cd)
+DEBUG:root:Foo -> agora vou aed (channel: cd)
+DEBUG:root:Foo joined: aed
+DEBUG:root:Foo -> estas ai bar? (channel: aed)
+DEBUG:root:Bar joined: aed
+DEBUG:root:Bar -> estas ai foo? (channel: aed)
+DEBUG:root:Foo left: aed
+DEBUG:root:Foo -> estas ai bar? (channel: general)
+DEBUG:root:Bar -> estou foo (channel: aed)
+DEBUG:root:Bar left: aed
+DEBUG:root:Bar -> estas ai foo? (channel: general)
+DEBUG:root:Foo -> estou bar (channel: general)
+DEBUG:root:Bar -> boas foo (channel: general)
+DEBUG:root:Foo joined: portugal
+DEBUG:root:Foo -> ola bar (channel: portugal)
+DEBUG:root:Bar -> ola foo (channel: general)
+DEBUG:root:Bar -> foooo (channel: general)
+DEBUG:root:Foo -> estou aqui (channel: portugal)
+DEBUG:root:Foo -> recebeste? (channel: portugal)
+DEBUG:root:Bar joined: portugal
+DEBUG:root:Bar -> foo? (channel: portugal)
+DEBUG:root:Foo -> estou aqui bar (channel: portugal)
+DEBUG:root:Bar -> estas foo? (channel: portugal)
+DEBUG:root:Foo -> estou bar (channel: cd)
+DEBUG:root:Foo left: cd
+DEBUG:root:Bar -> ola foo (channel: portugal)
+DEBUG:root:Foo -> ola bar (channel: cd)
+DEBUG:root:Foo -> recebes mensagens minhas? (channel: cd)
+DEBUG:root:Bar -> hmmmm (channel: portugal)
+DEBUG:root:Bar joined: general
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 55522)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 55532)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 34908)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 34920)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar -> How are you? (channel: general)
+DEBUG:root:Bar -> Are you new around here? (channel: general)
+DEBUG:root:Bar -> Hope you enjoy your stay (channel: general)
+DEBUG:root:Foo -> You are awesome! (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 34924)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 34938)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Bar -> Welcome aboard (channel: general)
+DEBUG:root:Bar -> Who are you? (channel: general)
+DEBUG:root:Foo -> I'm Joe (channel: general)
+DEBUG:root:Bar -> Nice to meet you Joe (channel: general)
+DEBUG:root:Foo -> Cya around (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 34942)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 34948)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Foo joined: #cd
+DEBUG:root:Foo -> no one is here... (channel: #cd)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 34958)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 56356)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo joined: #c1
+DEBUG:root:Bar joined: #c2
+DEBUG:root:Foo -> Hello darkness, my old friend (channel: #c1)
+DEBUG:root:Foo joined: #c2
+DEBUG:root:Foo -> I've come to talk with you again (channel: #c2)
+DEBUG:root:Foo -> Because a vision softly creeping (channel: #c2)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 41364)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 41376)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 35160)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 35168)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar -> How are you? (channel: general)
+DEBUG:root:Bar -> Are you new around here? (channel: general)
+DEBUG:root:Bar -> Hope you enjoy your stay (channel: general)
+DEBUG:root:Foo -> You are awesome! (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 35184)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 35188)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Bar -> Welcome aboard (channel: general)
+DEBUG:root:Bar -> Who are you? (channel: general)
+DEBUG:root:Foo -> I'm Joe (channel: general)
+DEBUG:root:Bar -> Nice to meet you Joe (channel: general)
+DEBUG:root:Foo -> Cya around (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 35194)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 35206)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Foo joined: #cd
+DEBUG:root:Foo -> no one is here... (channel: #cd)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 58194)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 58208)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo joined: #c1
+DEBUG:root:Bar joined: #c2
+DEBUG:root:Foo -> Hello darkness, my old friend (channel: #c1)
+DEBUG:root:Foo joined: #c2
+DEBUG:root:Foo -> I've come to talk with you again (channel: #c2)
+DEBUG:root:Foo -> Because a vision softly creeping (channel: #c2)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 49328)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 49338)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 35044)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 35056)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar -> How are you? (channel: general)
+DEBUG:root:Bar -> Are you new around here? (channel: general)
+DEBUG:root:Bar -> Hope you enjoy your stay (channel: general)
+DEBUG:root:Foo -> You are awesome! (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 35072)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 35088)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Bar -> Welcome aboard (channel: general)
+DEBUG:root:Bar -> Who are you? (channel: general)
+DEBUG:root:Foo -> I'm Joe (channel: general)
+DEBUG:root:Bar -> Nice to meet you Joe (channel: general)
+DEBUG:root:Foo -> Cya around (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 35092)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 35098)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Foo joined: #cd
+DEBUG:root:Foo -> no one is here... (channel: #cd)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 46038)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 46054)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo joined: #c1
+DEBUG:root:Bar joined: #c2
+DEBUG:root:Foo -> Hello darkness, my old friend (channel: #c1)
+DEBUG:root:Foo joined: #c2
+DEBUG:root:Foo -> I've come to talk with you again (channel: #c2)
+DEBUG:root:Foo -> Because a vision softly creeping (channel: #c2)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 36328)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 36340)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 36344)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 36348)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar -> How are you? (channel: general)
+DEBUG:root:Bar -> Are you new around here? (channel: general)
+DEBUG:root:Bar -> Hope you enjoy your stay (channel: general)
+DEBUG:root:Foo -> You are awesome! (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 36360)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 36376)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Bar -> Welcome aboard (channel: general)
+DEBUG:root:Bar -> Who are you? (channel: general)
+DEBUG:root:Foo -> I'm Joe (channel: general)
+DEBUG:root:Bar -> Nice to meet you Joe (channel: general)
+DEBUG:root:Foo -> Cya around (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 32952)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 32956)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Foo joined: #cd
+DEBUG:root:Foo -> no one is here... (channel: #cd)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 32968)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 32976)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo joined: #c1
+DEBUG:root:Bar joined: #c2
+DEBUG:root:Foo -> Hello darkness, my old friend (channel: #c1)
+DEBUG:root:Foo joined: #c2
+DEBUG:root:Foo -> I've come to talk with you again (channel: #c2)
+DEBUG:root:Foo -> Because a vision softly creeping (channel: #c2)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 56548)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 56550)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 56552)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 56558)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar -> How are you? (channel: general)
+DEBUG:root:Bar -> Are you new around here? (channel: general)
+DEBUG:root:Bar -> Hope you enjoy your stay (channel: general)
+DEBUG:root:Foo -> You are awesome! (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 56564)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 56578)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Bar -> Welcome aboard (channel: general)
+DEBUG:root:Bar -> Who are you? (channel: general)
+DEBUG:root:Foo -> I'm Joe (channel: general)
+DEBUG:root:Bar -> Nice to meet you Joe (channel: general)
+DEBUG:root:Foo -> Cya around (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 35704)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 35710)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Foo left the server
+DEBUG:root:Bar left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 35714)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 35730)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo left the server
+DEBUG:root:Bar left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 59716)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 59718)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 59726)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 59740)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar -> How are you? (channel: general)
+DEBUG:root:Bar -> Are you new around here? (channel: general)
+DEBUG:root:Bar -> Hope you enjoy your stay (channel: general)
+DEBUG:root:Foo -> You are awesome! (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 59750)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 59760)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Bar -> Welcome aboard (channel: general)
+DEBUG:root:Bar -> Who are you? (channel: general)
+DEBUG:root:Foo -> I'm Joe (channel: general)
+DEBUG:root:Bar -> Nice to meet you Joe (channel: general)
+DEBUG:root:Foo -> Cya around (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 43226)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 43228)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Foo joined: #cd
+DEBUG:root:Foo -> no one is here... (channel: #cd)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 43238)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 43242)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo joined: #c1
+DEBUG:root:Bar joined: #c2
+DEBUG:root:Foo -> Hello darkness, my old friend (channel: #c1)
+DEBUG:root:Foo joined: #c2
+DEBUG:root:Foo -> I've come to talk with you again (channel: #c2)
+DEBUG:root:Foo -> Because a vision softly creeping (channel: #c2)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 53674)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 53688)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 57666)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 57678)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar -> How are you? (channel: general)
+DEBUG:root:Bar -> Are you new around here? (channel: general)
+DEBUG:root:Bar -> Hope you enjoy your stay (channel: general)
+DEBUG:root:Foo -> You are awesome! (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 57682)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 57684)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Bar -> Welcome aboard (channel: general)
+DEBUG:root:Bar -> Who are you? (channel: general)
+DEBUG:root:Foo -> I'm Joe (channel: general)
+DEBUG:root:Bar -> Nice to meet you Joe (channel: general)
+DEBUG:root:Foo -> Cya around (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 57690)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 57694)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Foo joined: #cd
+DEBUG:root:Foo -> no one is here... (channel: #cd)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 57708)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 57718)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo joined: #c1
+DEBUG:root:Bar joined: #c2
+DEBUG:root:Foo -> Hello darkness, my old friend (channel: #c1)
+DEBUG:root:Foo joined: #c2
+DEBUG:root:Foo -> I've come to talk with you again (channel: #c2)
+DEBUG:root:Foo -> Because a vision softly creeping (channel: #c2)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 47288)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 47302)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 47750)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 47764)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar -> How are you? (channel: general)
+DEBUG:root:Bar -> Are you new around here? (channel: general)
+DEBUG:root:Bar -> Hope you enjoy your stay (channel: general)
+DEBUG:root:Foo -> You are awesome! (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 47766)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 47768)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Bar -> Welcome aboard (channel: general)
+DEBUG:root:Bar -> Who are you? (channel: general)
+DEBUG:root:Foo -> I'm Joe (channel: general)
+DEBUG:root:Bar -> Nice to meet you Joe (channel: general)
+DEBUG:root:Foo -> Cya around (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 47778)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 47786)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Foo joined: #cd
+DEBUG:root:Foo -> no one is here... (channel: #cd)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 48910)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 48912)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo joined: #c1
+DEBUG:root:Bar joined: #c2
+DEBUG:root:Foo -> Hello darkness, my old friend (channel: #c1)
+DEBUG:root:Foo joined: #c2
+DEBUG:root:Foo -> I've come to talk with you again (channel: #c2)
+DEBUG:root:Foo -> Because a vision softly creeping (channel: #c2)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 37378)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 37394)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 56326)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 56332)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar -> How are you? (channel: general)
+DEBUG:root:Bar -> Are you new around here? (channel: general)
+DEBUG:root:Bar -> Hope you enjoy your stay (channel: general)
+DEBUG:root:Foo -> You are awesome! (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 56334)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 56350)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Bar -> Welcome aboard (channel: general)
+DEBUG:root:Bar -> Who are you? (channel: general)
+DEBUG:root:Foo -> I'm Joe (channel: general)
+DEBUG:root:Bar -> Nice to meet you Joe (channel: general)
+DEBUG:root:Foo -> Cya around (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 56360)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 56362)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Foo joined: #cd
+DEBUG:root:Foo -> no one is here... (channel: #cd)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 56372)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 44372)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo joined: #c1
+DEBUG:root:Bar joined: #c2
+DEBUG:root:Foo -> Hello darkness, my old friend (channel: #c1)
+DEBUG:root:Accepted connection from ('127.0.0.1', 38414)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 38430)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 38442)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 50352)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar -> How are you? (channel: general)
+DEBUG:root:Bar -> Are you new around here? (channel: general)
+DEBUG:root:Bar -> Hope you enjoy your stay (channel: general)
+DEBUG:root:Foo -> You are awesome! (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 50356)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 50372)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Bar -> Welcome aboard (channel: general)
+DEBUG:root:Bar -> Who are you? (channel: general)
+DEBUG:root:Foo -> I'm Joe (channel: general)
+DEBUG:root:Bar -> Nice to meet you Joe (channel: general)
+DEBUG:root:Foo -> Cya around (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 50388)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 50390)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Foo joined: #cd
+DEBUG:root:Foo -> no one is here... (channel: #cd)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 50400)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 50414)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo joined: #c1
+DEBUG:root:Bar joined: #c2
+DEBUG:root:Foo -> Hello darkness, my old friend (channel: #c1)
+DEBUG:root:Foo joined: #c2
+DEBUG:root:Foo -> I've come to talk with you again (channel: #c2)
+DEBUG:root:Foo -> Because a vision softly creeping (channel: #c2)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 52194)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 52208)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 52222)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 52238)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar -> How are you? (channel: general)
+DEBUG:root:Bar -> Are you new around here? (channel: general)
+DEBUG:root:Bar -> Hope you enjoy your stay (channel: general)
+DEBUG:root:Foo -> You are awesome! (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 52252)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 52260)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Bar -> Welcome aboard (channel: general)
+DEBUG:root:Bar -> Who are you? (channel: general)
+DEBUG:root:Foo -> I'm Joe (channel: general)
+DEBUG:root:Bar -> Nice to meet you Joe (channel: general)
+DEBUG:root:Foo -> Cya around (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 52268)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 52272)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Foo joined: #cd
+DEBUG:root:Foo -> no one is here... (channel: #cd)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 58546)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 58562)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo joined: #c1
+DEBUG:root:Bar joined: #c2
+DEBUG:root:Foo -> Hello darkness, my old friend (channel: #c1)
+DEBUG:root:Foo joined: #c2
+DEBUG:root:Foo -> I've come to talk with you again (channel: #c2)
+DEBUG:root:Foo -> Because a vision softly creeping (channel: #c2)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 38216)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 38218)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 38226)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 48154)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar -> How are you? (channel: general)
+DEBUG:root:Bar -> Are you new around here? (channel: general)
+DEBUG:root:Bar -> Hope you enjoy your stay (channel: general)
+DEBUG:root:Foo -> You are awesome! (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 48160)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 48162)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Bar -> Welcome aboard (channel: general)
+DEBUG:root:Bar -> Who are you? (channel: general)
+DEBUG:root:Foo -> I'm Joe (channel: general)
+DEBUG:root:Bar -> Nice to meet you Joe (channel: general)
+DEBUG:root:Foo -> Cya around (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 48178)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 48192)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Foo joined: #cd
+DEBUG:root:Foo -> no one is here... (channel: #cd)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 48194)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 33354)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo joined: #c1
+DEBUG:root:Bar joined: #c2
+DEBUG:root:Foo -> Hello darkness, my old friend (channel: #c1)
+DEBUG:root:Foo joined: #c2
+DEBUG:root:Foo -> I've come to talk with you again (channel: #c2)
+DEBUG:root:Foo -> Because a vision softly creeping (channel: #c2)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 45028)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 45030)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 45038)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 45048)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar -> How are you? (channel: general)
+DEBUG:root:Bar -> Are you new around here? (channel: general)
+DEBUG:root:Bar -> Hope you enjoy your stay (channel: general)
+DEBUG:root:Foo -> You are awesome! (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 45056)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 43184)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Bar -> Welcome aboard (channel: general)
+DEBUG:root:Bar -> Who are you? (channel: general)
+DEBUG:root:Foo -> I'm Joe (channel: general)
+DEBUG:root:Bar -> Nice to meet you Joe (channel: general)
+DEBUG:root:Foo -> Cya around (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 43190)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 43198)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Foo joined: #cd
+DEBUG:root:Foo -> no one is here... (channel: #cd)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 43208)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 43212)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo joined: #c1
+DEBUG:root:Bar joined: #c2
+DEBUG:root:Foo -> Hello darkness, my old friend (channel: #c1)
+DEBUG:root:Foo joined: #c2
+DEBUG:root:Foo -> I've come to talk with you again (channel: #c2)
+DEBUG:root:Foo -> Because a vision softly creeping (channel: #c2)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 48822)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 55070)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar -> ola foo (channel: general)
+DEBUG:root:Foo joined: cd
+DEBUG:root:Foo -> ola bar (channel: cd)
+DEBUG:root:Bar -> ola foo (channel: general)
+DEBUG:root:Bar joined: cd
+DEBUG:root:Bar -> ola foo (channel: cd)
+DEBUG:root:Foo -> ola bar (channel: cd)
+DEBUG:root:Foo joined: cd2
+DEBUG:root:Foo -> ola bar (channel: cd2)
+DEBUG:root:Bar -> ola foo (channel: cd)
+DEBUG:root:Foo left the server
+DEBUG:root:Bar left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 47162)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 47178)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 59216)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 38804)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 38816)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 38820)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: general)
+DEBUG:root:Bar -> Hello World (channel: general)
+DEBUG:root:Bar -> How are you? (channel: general)
+DEBUG:root:Bar -> Are you new around here? (channel: general)
+DEBUG:root:Bar -> Hope you enjoy your stay (channel: general)
+DEBUG:root:Foo -> You are awesome! (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 38826)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 38834)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Bar -> Welcome aboard (channel: general)
+DEBUG:root:Bar -> Who are you? (channel: general)
+DEBUG:root:Foo -> I'm Joe (channel: general)
+DEBUG:root:Bar -> Nice to meet you Joe (channel: general)
+DEBUG:root:Foo -> Cya around (channel: general)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 38838)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 38854)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: general)
+DEBUG:root:Foo joined: #cd
+DEBUG:root:Accepted connection from ('127.0.0.1', 41410)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 41416)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: )
+DEBUG:root:Bar -> Hello World (channel: )
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 41424)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 59768)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Olá Mundo (channel: )
+DEBUG:root:Bar -> Hello World (channel: )
+DEBUG:root:Bar -> How are you? (channel: )
+DEBUG:root:Bar -> Are you new around here? (channel: )
+DEBUG:root:Bar -> Hope you enjoy your stay (channel: )
+DEBUG:root:Foo -> You are awesome! (channel: )
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 59780)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 59794)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: )
+DEBUG:root:Bar -> Welcome aboard (channel: )
+DEBUG:root:Bar -> Who are you? (channel: )
+DEBUG:root:Foo -> I'm Joe (channel: )
+DEBUG:root:Bar -> Nice to meet you Joe (channel: )
+DEBUG:root:Foo -> Cya around (channel: )
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 59796)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 59806)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo -> Hello! (channel: )
+DEBUG:root:Foo joined: #cd
+DEBUG:root:Foo -> no one is here... (channel: #cd)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 59810)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 43418)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo joined: #c1
+DEBUG:root:Bar joined: #c2
+DEBUG:root:Foo -> Hello darkness, my old friend (channel: #c1)
+DEBUG:root:Foo joined: #c2
+DEBUG:root:Foo -> I've come to talk with you again (channel: #c2)
+DEBUG:root:Foo -> Because a vision softly creeping (channel: #c1)
+DEBUG:root:Bar left the server
+DEBUG:root:Foo left the server
+DEBUG:root:Accepted connection from ('127.0.0.1', 41456)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 52968)
+DEBUG:root:Foo joined the chat
+DEBUG:root:Accepted connection from ('127.0.0.1', 60038)
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar -> ola foo (channel: )
+DEBUG:root:Foo -> ola bar (channel: )
+DEBUG:root:Foo joined: cd
+DEBUG:root:Foo -> ola bar (channel: cd)
+DEBUG:root:Bar -> ola foo (channel: )
+DEBUG:root:Foo -> boas bar (channel: cd)
+DEBUG:root:Bar joined: cd
+DEBUG:root:Bar -> foooo (channel: cd)
+DEBUG:root:Foo -> baaaar (channel: cd)
+DEBUG:root:Foo joined: cd2
+DEBUG:root:Foo -> baar es tu? (channel: cd2)
+DEBUG:root:Bar joined: cd2
+DEBUG:root:Bar -> foo sou eu (channel: cd2)
+DEBUG:root:Foo -> aaaaa (channel: cd2)
+DEBUG:root:Foo -> vou sair (channel: cd2)
+DEBUG:root:Foo left the server
+DEBUG:root:Bar left the server

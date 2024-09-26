@@ -1,0 +1,595 @@
+DEBUG:root:Connected to server
+DEBUG:root:Connected to server
+DEBUG:root:Connected to server
+DEBUG:root:Connected to server
+DEBUG:root:Connected to server
+DEBUG:root:Connected to server
+DEBUG:root:Connected to server
+DEBUG:root:Connected to server
+DEBUG:root:Connected to server
+DEBUG:root:Connected to server
+DEBUG:root:Connected to server
+DEBUG:root:Connected to server
+DEBUG:root:Connected to server
+DEBUG:root:Connected to server
+DEBUG:root:Connected to server
+DEBUG:root:Connected to server
+DEBUG:root:Connected to server
+DEBUG:root:Connected to server
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "Foo>> Ol\u00e1 Mundo\n", "ts": 1709749231}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "Foo>> Ol\u00e1 Mundo\n", "ts": 1709749233}
+DEBUG:root:Received message: {"command": "message", "message": "Foo>> You are awesome!\n", "ts": 1709749234}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "Foo>> Hello!\n", "ts": 1709749236}
+DEBUG:root:Received message: {"command": "message", "message": "Foo>> I'm Joe\n", "ts": 1709749236}
+DEBUG:root:Received message: {"command": "message", "message": "Foo>> Cya around\n", "ts": 1709749236}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "Foo>> Hello!\n", "ts": 1709749239}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "Foo>> I've come to talk with you again\n", "ts": 1709749243}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "Foo>> ola bar\n", "ts": 1709749595}
+DEBUG:root:Connected to server
+DEBUG:root:Connected to server
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "< Ola foo\n", "ts": 1710159196}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "<Ola foo\n", "ts": 1710159623}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ola bar\n", "ts": 1710159777}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): ola bar\n", "ts": 1710159902}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "ola foo\n", "ts": 1710159969}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): ola bar\n", "ts": 1710160112}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "< ola foo\n", "ts": 1710160153}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): ola bar\n", "ts": 1710160179}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo\n", "ts": 1710160277}
+DEBUG:root:Received message: {"command": "message", "message": "< Hello World\n", "ts": 1710160277}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo\n", "ts": 1710160279}
+DEBUG:root:Received message: {"command": "message", "message": "< Hello World\n", "ts": 1710160279}
+DEBUG:root:Received message: {"command": "message", "message": "< How are you?\n", "ts": 1710160279}
+DEBUG:root:Received message: {"command": "message", "message": "< Are you new around here?\n", "ts": 1710160279}
+DEBUG:root:Received message: {"command": "message", "message": "< Hope you enjoy your stay\n", "ts": 1710160279}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): You are awesome!\n", "ts": 1710160279}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!\n", "ts": 1710160282}
+DEBUG:root:Received message: {"command": "message", "message": "< Welcome aboard\n", "ts": 1710160282}
+DEBUG:root:Received message: {"command": "message", "message": "< Who are you?\n", "ts": 1710160282}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I'm Joe\n", "ts": 1710160282}
+DEBUG:root:Received message: {"command": "message", "message": "< Nice to meet you Joe\n", "ts": 1710160282}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Cya around\n", "ts": 1710160282}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!\n", "ts": 1710160284}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I've come to talk with you again\n", "ts": 1710160289}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): ola bar\n", "ts": 1710160469}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "\n< ola bar\n", "ts": 1710160578}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "\n< ola foo\n", "ts": 1710160703}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "\n< ola foo\n", "ts": 1710160737}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo\n", "ts": 1710160822}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Hello World\n", "ts": 1710160822}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Hello World\n", "ts": 1710160822}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo\n", "ts": 1710160824}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Hello World\n", "ts": 1710160824}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Hello World\n", "ts": 1710160824}
+DEBUG:root:Received message: {"command": "message", "message": "\n< How are you?\n", "ts": 1710160824}
+DEBUG:root:Received message: {"command": "message", "message": "\n< How are you?\n", "ts": 1710160824}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Are you new around here?\n", "ts": 1710160824}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Are you new around here?\n", "ts": 1710160824}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Hope you enjoy your stay\n", "ts": 1710160824}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Hope you enjoy your stay\n", "ts": 1710160824}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): You are awesome!\n", "ts": 1710160824}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!\n", "ts": 1710160827}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Welcome aboard\n", "ts": 1710160827}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Welcome aboard\n", "ts": 1710160827}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Who are you?\n", "ts": 1710160827}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Who are you?\n", "ts": 1710160827}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I'm Joe\n", "ts": 1710160827}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Nice to meet you Joe\n", "ts": 1710160827}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Nice to meet you Joe\n", "ts": 1710160827}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Cya around\n", "ts": 1710160827}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!\n", "ts": 1710160829}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I've come to talk with you again\n", "ts": 1710160834}
+DEBUG:root:Connected to server
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo\n", "ts": 1710161190}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo\n", "ts": 1710161190}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Hello World\n", "ts": 1710161190}
+DEBUG:root:Received message: {"command": "message", "message": "(Bar): Hello World\n", "ts": 1710161190}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Hello World\n", "ts": 1710161190}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Hello World\n", "ts": 1710161190}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo\n", "ts": 1710161192}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo\n", "ts": 1710161192}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Hello World\n", "ts": 1710161192}
+DEBUG:root:Received message: {"command": "message", "message": "(Bar): Hello World\n", "ts": 1710161192}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Hello World\n", "ts": 1710161192}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Hello World\n", "ts": 1710161192}
+DEBUG:root:Received message: {"command": "message", "message": "\n< How are you?\n", "ts": 1710161192}
+DEBUG:root:Received message: {"command": "message", "message": "(Bar): How are you?\n", "ts": 1710161192}
+DEBUG:root:Received message: {"command": "message", "message": "\n< How are you?\n", "ts": 1710161192}
+DEBUG:root:Received message: {"command": "message", "message": "\n< How are you?\n", "ts": 1710161192}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Are you new around here?\n", "ts": 1710161192}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Are you new around here?\n", "ts": 1710161192}
+DEBUG:root:Received message: {"command": "message", "message": "(Bar): Are you new around here?\n", "ts": 1710161192}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Are you new around here?\n", "ts": 1710161192}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Hope you enjoy your stay\n", "ts": 1710161192}
+DEBUG:root:Received message: {"command": "message", "message": "(Bar): Hope you enjoy your stay\n", "ts": 1710161192}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Hope you enjoy your stay\n", "ts": 1710161192}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Hope you enjoy your stay\n", "ts": 1710161192}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): You are awesome!\n", "ts": 1710161192}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): You are awesome!\n", "ts": 1710161192}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!\n", "ts": 1710161195}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!\n", "ts": 1710161195}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Welcome aboard\n", "ts": 1710161195}
+DEBUG:root:Received message: {"command": "message", "message": "(Bar): Welcome aboard\n", "ts": 1710161195}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Welcome aboard\n", "ts": 1710161195}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Welcome aboard\n", "ts": 1710161195}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Who are you?\n", "ts": 1710161195}
+DEBUG:root:Received message: {"command": "message", "message": "(Bar): Who are you?\n", "ts": 1710161195}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Who are you?\n", "ts": 1710161195}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Who are you?\n", "ts": 1710161195}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I'm Joe\n", "ts": 1710161195}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I'm Joe\n", "ts": 1710161195}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Nice to meet you Joe\n", "ts": 1710161195}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Nice to meet you Joe\n", "ts": 1710161195}
+DEBUG:root:Received message: {"command": "message", "message": "(Bar): Nice to meet you Joe\n", "ts": 1710161195}
+DEBUG:root:Received message: {"command": "message", "message": "\n< Nice to meet you Joe\n", "ts": 1710161195}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Cya around\n", "ts": 1710161195}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Cya around\n", "ts": 1710161195}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!\n", "ts": 1710161197}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!\n", "ts": 1710161197}
+DEBUG:root:Connected to server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I've come to talk with you again\n", "ts": 1710161202}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "\n< ola foo\n", "ts": 1710187516}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): ola bar\n", "ts": 1710187592}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): join cd\n", "ts": 1710187619}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): ola bar\n", "ts": 1710187639}
+DEBUG:root:Received message: {"command": "message", "message": "\n< ola foo\n", "ts": 1710187656}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "\n< Ola foo, tudo bem?\n", "ts": 1710243133}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ola bar, tudo e contigo?\n", "ts": 1710243149}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "Ola foo\n", "ts": 1710243677}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "ola foo\n", "ts": 1710243885}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): ola bar, tudo bem?\n", "ts": 1710243923}
+DEBUG:root:Received message: {"command": "message", "message": "tudo e contigo?\n", "ts": 1710243935}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "ola foo, tudo bem?", "ts": 1710244133}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): tudo e contigo?", "ts": 1710244143}
+DEBUG:root:Connected to chat server
+DEBUG:root:Connected to chat server
+DEBUG:root:Connected to chat server
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): ola foo", "ts": 1710245455}
+DEBUG:root:Received message: {"command": "message", "message": "Hola", "ts": 1710245462}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hola", "ts": 1710245494}
+DEBUG:root:Received message: {"command": "message", "message": "Hola", "ts": 1710245534}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hola", "ts": 1710245542}
+DEBUG:root:Connected to chat server
+DEBUG:root:Connected to chat server
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): ola bar", "ts": 1710247577}
+DEBUG:root:Received message: {"command": "message", "message": "ola foo", "ts": 1710247582}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): estou no canal cd bar", "ts": 1710247626}
+DEBUG:root:Received message: {"command": "message", "message": "eu tambem foo", "ts": 1710247636}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): estas ai bar?", "ts": 1710247668}
+DEBUG:root:Received message: {"command": "message", "message": "estou foo", "ts": 1710247675}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "ola foo", "ts": 1710248261}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): ola bar", "ts": 1710248268}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): ola bar", "ts": 1710248283}
+DEBUG:root:Received message: {"command": "message", "message": "ola foo", "ts": 1710248302}
+DEBUG:root:Connected to chat server
+DEBUG:root:Connected to chat server
+DEBUG:root:Connected to chat server
+DEBUG:root:Connected to chat server
+DEBUG:root:Connected to chat server
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "ola bar", "ts": 1710280299}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): oi bar", "ts": 1710280318}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): estas ai bar?", "ts": 1710280339}
+DEBUG:root:Received message: {"command": "message", "message": "estou", "ts": 1710280377}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): ola bar", "ts": 1710280627}
+DEBUG:root:Received message: {"command": "message", "message": "ola foo", "ts": 1710280634}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): vou para cd bar", "ts": 1710280648}
+DEBUG:root:Received message: {"command": "message", "message": "estas ai foo?", "ts": 1710280671}
+DEBUG:root:Received message: {"command": "message", "message": "entrei em cd foo", "ts": 1710280692}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): boa bar", "ts": 1710280701}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): agora vou aed", "ts": 1710280709}
+DEBUG:root:Received message: {"command": "message", "message": "estas ai foo?", "ts": 1710280748}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): estas ai bar?", "ts": 1710280792}
+DEBUG:root:Received message: {"command": "message", "message": "estas ai foo?", "ts": 1710280813}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): estou bar", "ts": 1710280821}
+DEBUG:root:Received message: {"command": "message", "message": "boas foo", "ts": 1710280845}
+DEBUG:root:Received message: {"command": "message", "message": "ola foo", "ts": 1710280893}
+DEBUG:root:Received message: {"command": "message", "message": "foooo", "ts": 1710280904}
+DEBUG:root:Received message: {"command": "message", "message": "foo?", "ts": 1710280932}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): estou aqui bar", "ts": 1710280939}
+DEBUG:root:Received message: {"command": "message", "message": "estas foo?", "ts": 1710280964}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): estou bar", "ts": 1710280968}
+DEBUG:root:Received message: {"command": "message", "message": "ola foo", "ts": 1710281003}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): ola bar", "ts": 1710281010}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): recebes mensagens minhas?", "ts": 1710281086}
+DEBUG:root:Received message: {"command": "message", "message": "hmmmm", "ts": 1710281094}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710281204}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710281204}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710281207}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710281207}
+DEBUG:root:Received message: {"command": "message", "message": "How are you?", "ts": 1710281207}
+DEBUG:root:Received message: {"command": "message", "message": "Are you new around here?", "ts": 1710281207}
+DEBUG:root:Received message: {"command": "message", "message": "Hope you enjoy your stay", "ts": 1710281207}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): You are awesome!", "ts": 1710281207}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710281209}
+DEBUG:root:Received message: {"command": "message", "message": "Welcome aboard", "ts": 1710281209}
+DEBUG:root:Received message: {"command": "message", "message": "Who are you?", "ts": 1710281210}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I'm Joe", "ts": 1710281210}
+DEBUG:root:Received message: {"command": "message", "message": "Nice to meet you Joe", "ts": 1710281210}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Cya around", "ts": 1710281210}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710281212}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I've come to talk with you again", "ts": 1710281217}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Because a vision softly creeping", "ts": 1710281217}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710282275}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710282275}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710282277}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710282277}
+DEBUG:root:Received message: {"command": "message", "message": "How are you?", "ts": 1710282277}
+DEBUG:root:Received message: {"command": "message", "message": "Are you new around here?", "ts": 1710282277}
+DEBUG:root:Received message: {"command": "message", "message": "Hope you enjoy your stay", "ts": 1710282277}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): You are awesome!", "ts": 1710282277}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710282280}
+DEBUG:root:Received message: {"command": "message", "message": "Welcome aboard", "ts": 1710282280}
+DEBUG:root:Received message: {"command": "message", "message": "Who are you?", "ts": 1710282280}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I'm Joe", "ts": 1710282280}
+DEBUG:root:Received message: {"command": "message", "message": "Nice to meet you Joe", "ts": 1710282280}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Cya around", "ts": 1710282280}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710282282}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I've come to talk with you again", "ts": 1710282287}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Because a vision softly creeping", "ts": 1710282287}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710282485}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710282485}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710282488}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710282488}
+DEBUG:root:Received message: {"command": "message", "message": "How are you?", "ts": 1710282488}
+DEBUG:root:Received message: {"command": "message", "message": "Are you new around here?", "ts": 1710282488}
+DEBUG:root:Received message: {"command": "message", "message": "Hope you enjoy your stay", "ts": 1710282488}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): You are awesome!", "ts": 1710282488}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710282490}
+DEBUG:root:Received message: {"command": "message", "message": "Welcome aboard", "ts": 1710282490}
+DEBUG:root:Received message: {"command": "message", "message": "Who are you?", "ts": 1710282490}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I'm Joe", "ts": 1710282490}
+DEBUG:root:Received message: {"command": "message", "message": "Nice to meet you Joe", "ts": 1710282490}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Cya around", "ts": 1710282490}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710282493}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I've come to talk with you again", "ts": 1710282498}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Because a vision softly creeping", "ts": 1710282498}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710282510}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710282510}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710282512}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710282512}
+DEBUG:root:Received message: {"command": "message", "message": "How are you?", "ts": 1710282512}
+DEBUG:root:Received message: {"command": "message", "message": "Are you new around here?", "ts": 1710282513}
+DEBUG:root:Received message: {"command": "message", "message": "Hope you enjoy your stay", "ts": 1710282513}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): You are awesome!", "ts": 1710282513}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710282515}
+DEBUG:root:Received message: {"command": "message", "message": "Welcome aboard", "ts": 1710282515}
+DEBUG:root:Received message: {"command": "message", "message": "Who are you?", "ts": 1710282515}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I'm Joe", "ts": 1710282515}
+DEBUG:root:Received message: {"command": "message", "message": "Nice to meet you Joe", "ts": 1710282515}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Cya around", "ts": 1710282515}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710282518}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): no one is here...", "ts": 1710282518}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello darkness, my old friend", "ts": 1710282520}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I've come to talk with you again", "ts": 1710282520}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Because a vision softly creeping", "ts": 1710282520}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710284190}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710284190}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710284193}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710284193}
+DEBUG:root:Received message: {"command": "message", "message": "How are you?", "ts": 1710284193}
+DEBUG:root:Received message: {"command": "message", "message": "Are you new around here?", "ts": 1710284193}
+DEBUG:root:Received message: {"command": "message", "message": "Hope you enjoy your stay", "ts": 1710284193}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): You are awesome!", "ts": 1710284193}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710284195}
+DEBUG:root:Received message: {"command": "message", "message": "Welcome aboard", "ts": 1710284195}
+DEBUG:root:Received message: {"command": "message", "message": "Who are you?", "ts": 1710284195}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I'm Joe", "ts": 1710284196}
+DEBUG:root:Received message: {"command": "message", "message": "Nice to meet you Joe", "ts": 1710284196}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Cya around", "ts": 1710284196}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710284198}
+DEBUG:root:Connected to chat server
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710284589}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710284589}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710284591}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710284591}
+DEBUG:root:Received message: {"command": "message", "message": "How are you?", "ts": 1710284592}
+DEBUG:root:Received message: {"command": "message", "message": "Are you new around here?", "ts": 1710284592}
+DEBUG:root:Received message: {"command": "message", "message": "Hope you enjoy your stay", "ts": 1710284592}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): You are awesome!", "ts": 1710284592}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710284594}
+DEBUG:root:Received message: {"command": "message", "message": "Welcome aboard", "ts": 1710284594}
+DEBUG:root:Received message: {"command": "message", "message": "Who are you?", "ts": 1710284594}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I'm Joe", "ts": 1710284594}
+DEBUG:root:Received message: {"command": "message", "message": "Nice to meet you Joe", "ts": 1710284594}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Cya around", "ts": 1710284594}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710284597}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): no one is here...", "ts": 1710284597}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello darkness, my old friend", "ts": 1710284599}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I've come to talk with you again", "ts": 1710284599}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Because a vision softly creeping", "ts": 1710284599}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710284735}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710284735}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710284738}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710284738}
+DEBUG:root:Received message: {"command": "message", "message": "How are you?", "ts": 1710284738}
+DEBUG:root:Received message: {"command": "message", "message": "Are you new around here?", "ts": 1710284738}
+DEBUG:root:Received message: {"command": "message", "message": "Hope you enjoy your stay", "ts": 1710284738}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): You are awesome!", "ts": 1710284738}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710284740}
+DEBUG:root:Received message: {"command": "message", "message": "Welcome aboard", "ts": 1710284740}
+DEBUG:root:Received message: {"command": "message", "message": "Who are you?", "ts": 1710284740}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I'm Joe", "ts": 1710284740}
+DEBUG:root:Received message: {"command": "message", "message": "Nice to meet you Joe", "ts": 1710284740}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Cya around", "ts": 1710284741}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710284743}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): no one is here...", "ts": 1710284743}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello darkness, my old friend", "ts": 1710284745}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I've come to talk with you again", "ts": 1710284746}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Because a vision softly creeping", "ts": 1710284746}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710285095}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710285095}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710285098}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710285098}
+DEBUG:root:Received message: {"command": "message", "message": "How are you?", "ts": 1710285098}
+DEBUG:root:Received message: {"command": "message", "message": "Are you new around here?", "ts": 1710285098}
+DEBUG:root:Received message: {"command": "message", "message": "Hope you enjoy your stay", "ts": 1710285098}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): You are awesome!", "ts": 1710285098}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710285100}
+DEBUG:root:Received message: {"command": "message", "message": "Welcome aboard", "ts": 1710285100}
+DEBUG:root:Received message: {"command": "message", "message": "Who are you?", "ts": 1710285100}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I'm Joe", "ts": 1710285100}
+DEBUG:root:Received message: {"command": "message", "message": "Nice to meet you Joe", "ts": 1710285100}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Cya around", "ts": 1710285100}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710285103}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I've come to talk with you again", "ts": 1710285107}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Because a vision softly creeping", "ts": 1710285108}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710285324}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710285324}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710285327}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710285327}
+DEBUG:root:Received message: {"command": "message", "message": "How are you?", "ts": 1710285327}
+DEBUG:root:Received message: {"command": "message", "message": "Are you new around here?", "ts": 1710285327}
+DEBUG:root:Received message: {"command": "message", "message": "Hope you enjoy your stay", "ts": 1710285327}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): You are awesome!", "ts": 1710285327}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710285329}
+DEBUG:root:Received message: {"command": "message", "message": "Welcome aboard", "ts": 1710285329}
+DEBUG:root:Received message: {"command": "message", "message": "Who are you?", "ts": 1710285329}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I'm Joe", "ts": 1710285330}
+DEBUG:root:Received message: {"command": "message", "message": "Nice to meet you Joe", "ts": 1710285330}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Cya around", "ts": 1710285330}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710285332}
+DEBUG:root:Connected to chat server
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710285553}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710285553}
+DEBUG:root:Received message: {"command": "message", "message": "(Bar): Hello World", "ts": 1710285553}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710285553}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710285556}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710285556}
+DEBUG:root:Received message: {"command": "message", "message": "(Bar): Hello World", "ts": 1710285556}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710285556}
+DEBUG:root:Received message: {"command": "message", "message": "How are you?", "ts": 1710285556}
+DEBUG:root:Received message: {"command": "message", "message": "(Bar): How are you?", "ts": 1710285556}
+DEBUG:root:Received message: {"command": "message", "message": "How are you?", "ts": 1710285556}
+DEBUG:root:Received message: {"command": "message", "message": "Are you new around here?", "ts": 1710285556}
+DEBUG:root:Received message: {"command": "message", "message": "(Bar): Are you new around here?", "ts": 1710285556}
+DEBUG:root:Received message: {"command": "message", "message": "Are you new around here?", "ts": 1710285556}
+DEBUG:root:Received message: {"command": "message", "message": "Hope you enjoy your stay", "ts": 1710285556}
+DEBUG:root:Received message: {"command": "message", "message": "(Bar): Hope you enjoy your stay", "ts": 1710285556}
+DEBUG:root:Received message: {"command": "message", "message": "Hope you enjoy your stay", "ts": 1710285556}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): You are awesome!", "ts": 1710285556}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710285558}
+DEBUG:root:Received message: {"command": "message", "message": "Welcome aboard", "ts": 1710285559}
+DEBUG:root:Received message: {"command": "message", "message": "(Bar): Welcome aboard", "ts": 1710285559}
+DEBUG:root:Received message: {"command": "message", "message": "Welcome aboard", "ts": 1710285559}
+DEBUG:root:Received message: {"command": "message", "message": "Who are you?", "ts": 1710285559}
+DEBUG:root:Received message: {"command": "message", "message": "(Bar): Who are you?", "ts": 1710285559}
+DEBUG:root:Received message: {"command": "message", "message": "Who are you?", "ts": 1710285559}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I'm Joe", "ts": 1710285559}
+DEBUG:root:Received message: {"command": "message", "message": "Nice to meet you Joe", "ts": 1710285559}
+DEBUG:root:Received message: {"command": "message", "message": "(Bar): Nice to meet you Joe", "ts": 1710285559}
+DEBUG:root:Received message: {"command": "message", "message": "Nice to meet you Joe", "ts": 1710285559}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Cya around", "ts": 1710285559}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710285561}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I've come to talk with you again", "ts": 1710285566}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Because a vision softly creeping", "ts": 1710285566}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710285717}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710285717}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710285719}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710285719}
+DEBUG:root:Received message: {"command": "message", "message": "How are you?", "ts": 1710285719}
+DEBUG:root:Received message: {"command": "message", "message": "Are you new around here?", "ts": 1710285719}
+DEBUG:root:Received message: {"command": "message", "message": "Hope you enjoy your stay", "ts": 1710285720}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): You are awesome!", "ts": 1710285720}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710285722}
+DEBUG:root:Received message: {"command": "message", "message": "Welcome aboard", "ts": 1710285722}
+DEBUG:root:Received message: {"command": "message", "message": "Who are you?", "ts": 1710285722}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I'm Joe", "ts": 1710285722}
+DEBUG:root:Received message: {"command": "message", "message": "Nice to meet you Joe", "ts": 1710285722}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Cya around", "ts": 1710285722}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710285725}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I've come to talk with you again", "ts": 1710285729}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Because a vision softly creeping", "ts": 1710285729}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710285844}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710285844}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710285846}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710285846}
+DEBUG:root:Received message: {"command": "message", "message": "How are you?", "ts": 1710285846}
+DEBUG:root:Received message: {"command": "message", "message": "Are you new around here?", "ts": 1710285846}
+DEBUG:root:Received message: {"command": "message", "message": "Hope you enjoy your stay", "ts": 1710285846}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): You are awesome!", "ts": 1710285846}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710285849}
+DEBUG:root:Received message: {"command": "message", "message": "Welcome aboard", "ts": 1710285849}
+DEBUG:root:Received message: {"command": "message", "message": "Who are you?", "ts": 1710285849}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I'm Joe", "ts": 1710285849}
+DEBUG:root:Received message: {"command": "message", "message": "Nice to meet you Joe", "ts": 1710285849}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Cya around", "ts": 1710285849}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710285851}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I've come to talk with you again", "ts": 1710285856}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Because a vision softly creeping", "ts": 1710285856}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710285971}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710285971}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710285973}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710285973}
+DEBUG:root:Received message: {"command": "message", "message": "How are you?", "ts": 1710285973}
+DEBUG:root:Received message: {"command": "message", "message": "Are you new around here?", "ts": 1710285973}
+DEBUG:root:Received message: {"command": "message", "message": "Hope you enjoy your stay", "ts": 1710285973}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): You are awesome!", "ts": 1710285973}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710285976}
+DEBUG:root:Received message: {"command": "message", "message": "Welcome aboard", "ts": 1710285976}
+DEBUG:root:Received message: {"command": "message", "message": "Who are you?", "ts": 1710285976}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I'm Joe", "ts": 1710285976}
+DEBUG:root:Received message: {"command": "message", "message": "Nice to meet you Joe", "ts": 1710285976}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Cya around", "ts": 1710285976}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710285978}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I've come to talk with you again", "ts": 1710285983}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Because a vision softly creeping", "ts": 1710285983}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "ola foo", "ts": 1710286023}
+DEBUG:root:Received message: {"command": "message", "message": "ola foo", "ts": 1710286045}
+DEBUG:root:Received message: {"command": "message", "message": "ola foo", "ts": 1710286059}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): ola bar", "ts": 1710286065}
+DEBUG:root:Received message: {"command": "message", "message": "ola foo", "ts": 1710286115}
+DEBUG:root:Connected to chat server
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710290106}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710290106}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710290108}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710290108}
+DEBUG:root:Received message: {"command": "message", "message": "How are you?", "ts": 1710290108}
+DEBUG:root:Received message: {"command": "message", "message": "Are you new around here?", "ts": 1710290108}
+DEBUG:root:Received message: {"command": "message", "message": "Hope you enjoy your stay", "ts": 1710290108}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): You are awesome!", "ts": 1710290108}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710290111}
+DEBUG:root:Received message: {"command": "message", "message": "Welcome aboard", "ts": 1710290111}
+DEBUG:root:Received message: {"command": "message", "message": "Who are you?", "ts": 1710290111}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I'm Joe", "ts": 1710290111}
+DEBUG:root:Received message: {"command": "message", "message": "Nice to meet you Joe", "ts": 1710290111}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Cya around", "ts": 1710290111}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710290113}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710290194}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710290194}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Ol\u00e1 Mundo", "ts": 1710290196}
+DEBUG:root:Received message: {"command": "message", "message": "Hello World", "ts": 1710290196}
+DEBUG:root:Received message: {"command": "message", "message": "How are you?", "ts": 1710290196}
+DEBUG:root:Received message: {"command": "message", "message": "Are you new around here?", "ts": 1710290196}
+DEBUG:root:Received message: {"command": "message", "message": "Hope you enjoy your stay", "ts": 1710290196}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): You are awesome!", "ts": 1710290196}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710290199}
+DEBUG:root:Received message: {"command": "message", "message": "Welcome aboard", "ts": 1710290199}
+DEBUG:root:Received message: {"command": "message", "message": "Who are you?", "ts": 1710290199}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I'm Joe", "ts": 1710290199}
+DEBUG:root:Received message: {"command": "message", "message": "Nice to meet you Joe", "ts": 1710290199}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Cya around", "ts": 1710290199}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): Hello!", "ts": 1710290201}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): I've come to talk with you again", "ts": 1710290206}
+DEBUG:root:Connected to chat server
+DEBUG:root:Received message: {"command": "message", "message": "ola foo", "ts": 1710290410}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): ola bar", "ts": 1710290416}
+DEBUG:root:Received message: {"command": "message", "message": "ola foo", "ts": 1710290443}
+DEBUG:root:Received message: {"command": "message", "message": "foooo", "ts": 1710290470}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): baaaar", "ts": 1710290476}
+DEBUG:root:Received message: {"command": "message", "message": "foo sou eu", "ts": 1710290511}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): aaaaa", "ts": 1710290519}
+DEBUG:root:Received message: {"command": "message", "message": "(Foo): vou sair", "ts": 1710290521}
