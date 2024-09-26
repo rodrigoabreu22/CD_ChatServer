@@ -1,4 +1,4 @@
-1st CD assignemnt realized by myself
+1st CD assignemnt realized by myself;
 Grade: 17,5
 
 
